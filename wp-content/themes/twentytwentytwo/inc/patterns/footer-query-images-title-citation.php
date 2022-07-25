@@ -31,7 +31,7 @@ return array(
 					<p>' .
 					sprintf(
 						/* Translators: WordPress link. */
-						esc_html__( 'Proudly powered by %s', 'twentytwentytwo' ),
+						esc_html__( 'Proudly powered by Adriana', 'twentytwentytwo' ),
 						'<a href="' . esc_url( __( 'https://wordpress.org', 'twentytwentytwo' ) ) . '" rel="nofollow">WordPress</a>'
 					) . '</p>
 					<!-- /wp:paragraph --></div>

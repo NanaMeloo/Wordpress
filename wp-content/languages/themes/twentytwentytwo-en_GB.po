@@ -878,8 +878,8 @@ msgstr "https://en-gb.wordpress.org"
 #: inc/patterns/footer-navigation.php:19
 #: inc/patterns/footer-query-images-title-citation.php:34
 #: inc/patterns/footer-query-title-citation.php:32
-msgid "Proudly powered by %s"
-msgstr "Proudly powered by %s"
+msgid "Proudly powered by Adriana"
+msgstr "Proudly powered by Adriana"
 
 #: inc/patterns/footer-blog.php:31
 #: inc/patterns/page-sidebar-blog-posts-right.php:74
